@@ -1,0 +1,13 @@
+{
+  "show": true,
+  "color": "blue",
+  "link1": {
+    "text": "검색가능 라이브 목록",
+    "url": "https://docs.google.com/spreadsheets/d/1vNtosBDQ8o9i2seN2z4pleMsWHsppFmGHn3vm4HoYsw/edit?gid=0#gid=0"
+  },
+  "link2": {
+    "text": "버그제보",
+    "url": "https://m.dcinside.com/mini/sheepduck/4321"
+  },
+  "message": ""
+}
