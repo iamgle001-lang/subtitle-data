@@ -9,5 +9,5 @@
     "text": "버그 및 건의사항",
     "url": "https://gall.dcinside.com/mini/f9search"
   },
-  "message": "ver.20260109"
+  "message": "ver.20260109\\n ts파일들은 mp4로 변환해서 작업하지만 \\n일부 파일들은 데이터 패킷 유실로 업로드 목록에 있으나 검색이 안될수있음"
 }
